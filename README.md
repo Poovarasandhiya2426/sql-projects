@@ -204,5 +204,6 @@ sql_projects.sql
 
 ## 👤 Author
 
-Poovarasan M
+Poovarasan M,
+
 Java Developer
